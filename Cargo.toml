@@ -1,5 +1,3 @@
 [workspace]
-members = [ "suitware"
-          , "suitware-diagnostics"
-          , "suitware-util"
+members = [ "suitware*"
           ]

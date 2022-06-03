@@ -1,9 +1,0 @@
-[package]
-name = "suitware-diagnostics"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-actix = "0.13.0"
-suitware-util = { version = "0.1.0", path = "../suitware-util" }
-tracing = "0.1.34"
