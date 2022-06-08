@@ -1,5 +1,7 @@
+#[aparan::main]
 fn main() {
-    let system = actix::System::new();
+    // TODO: wait for Aparan to be developed enough to create actors and schedulers.
+    // TODO-cont: this is where the initalization goes.
 
-    system.run();
+    system.start();
 }
